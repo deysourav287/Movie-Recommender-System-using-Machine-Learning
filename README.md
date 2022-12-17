@@ -20,11 +20,17 @@ Machine learning algorithms in recommender systems typically fit into two catego
 
 Let’s have a look at how they work using movie recommendation systems as a base.
 
-![88506recommendation system](https://user-images.githubusercontent.com/106477719/208264787-b91aa99b-7566-4fa3-8db7-49cdc4427b61.png)
+
+![download](https://user-images.githubusercontent.com/106477719/208264922-acee6263-9764-4302-8f8f-b7fef9d56cc4.png)
+
 
 
 # A) Content-Based Movie Recommendation Systems
 Content-based methods are based on the similarity of movie attributes. Using this type of recommender system, if a user watches one movie, similar movies are recommended. For example, if a user watches a comedy movie starring Adam Sandler, the system will recommend them movies in the same genre or starring the same actor, or both. With this in mind, the input for building a content-based recommender system is movie attributes.
+
+
+![download (1)](https://user-images.githubusercontent.com/106477719/208264934-7f335a08-180a-4cbc-81ea-2519398b68eb.png)
+
 
 # B) Collaborative Filtering Movie Recommendation Systems
 With collaborative filtering, the system is based on past interactions between users and movies. With this in mind, the input for a collaborative filtering system is made up of past data of user interactions with the movies they watch.
