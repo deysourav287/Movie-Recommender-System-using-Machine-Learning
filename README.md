@@ -1,4 +1,4 @@
-# Movie-Recommender-System-using-Machine-Learning
+# Movie Recommender System using Content Based Recommender System
 
 # Why Do We Need Recommender Systems?
 
