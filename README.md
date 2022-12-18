@@ -34,6 +34,8 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 
 
 
+
+
 # B) Collaborative Filtering Movie Recommendation Systems
 With collaborative filtering, the system is based on past interactions between users and movies. With this in mind, the input for a collaborative filtering system is made up of past data of user interactions with the movies they watch.
 
@@ -41,3 +43,17 @@ For example, if user A watches M1, M2, and M3, and user B watches M1, M3, M4, we
 
 
 ![download (1)](https://user-images.githubusercontent.com/106477719/208264934-7f335a08-180a-4cbc-81ea-2519398b68eb.png)
+
+
+
+Algorithms performed:-
+1. EDA and FE
+2. Preprocessing
+3. Clustering Model
+4. Matrix Factorization
+5. Vectorization
+6. K-nearest neighbor
+7. Natural Language Processing (NLP)
+8. Cosine Similarity
+9. Pickle
+10. Streamlit for website development.
