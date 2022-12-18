@@ -3,6 +3,18 @@
 A movie recommendation system is an ML-based approach to filtering or predicting the users' film preferences based on their past choices and behavior.
 In this model, we are recommending 5 movies based on user's past record data.
 
+#OUTPUT
+![app · Streamlit - Google Chrome 18-12-2022 18_47_24](https://user-images.githubusercontent.com/106477719/208300574-b6db5e1e-7e6c-45ff-a4a0-1a52edd4e2cd.png)
+
+![app · Streamlit - Google Chrome 18-12-2022 18_47_35](https://user-images.githubusercontent.com/106477719/208300588-edef8679-01b0-4cf7-a2db-ef2d9746a3c3.png)
+
+
+
+
+![app · Streamlit - Google Chrome 18-12-2022 18_47_44](https://user-images.githubusercontent.com/106477719/208300591-18a8f317-782f-4276-8082-9ac041927fe1.png)
+
+
+
 # Why Do We Need Recommender Systems?
 
 We now live in what some call the “era of abundance”. For any given product, there are sometimes thousands of options to choose from. Think of the examples above: streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like.
@@ -62,3 +74,6 @@ Algorithms performed:-
 8. Cosine Similarity
 9. Pickle
 12. Streamlit for website development.
+
+
+
