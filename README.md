@@ -54,9 +54,11 @@ Algorithms performed:-
 2. Preprocessing
 3. Clustering Model
 4. Matrix Factorization
-5. Vectorization
+5. Text Vectorization
+   * Bag of words
+ 
 6. K-nearest neighbor
 7. Natural Language Processing (NLP)
 8. Cosine Similarity
 9. Pickle
-10. Streamlit for website development.
+12. Streamlit for website development.
