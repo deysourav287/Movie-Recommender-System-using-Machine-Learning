@@ -1,5 +1,8 @@
 # Movie Recommender System using Content Based Recommender System
 
+A movie recommendation system is an ML-based approach to filtering or predicting the users' film preferences based on their past choices and behavior.
+In this model, we are recommending 5 movies based on user's past record data.
+
 # Why Do We Need Recommender Systems?
 
 We now live in what some call the “era of abundance”. For any given product, there are sometimes thousands of options to choose from. Think of the examples above: streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like.
